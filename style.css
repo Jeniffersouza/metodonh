@@ -42,7 +42,7 @@
 /*FRAME1*/
 
 #frame1{
-background-image: url(../assets/banner1.jpg);
+background-image: url("assets/back/banner1.jpg");
 background-repeat: no-repeat;
 background-position: center 0 ;
 background-size: cover;
@@ -79,7 +79,7 @@ background-attachment: scroll;
   
   /*FRAME 2*/
 #frame2{
-    background-image: url(../assets/banner2.png);
+    background-image: url(assets/back/banner2.png);
     background-repeat: no-repeat;
     background-position: center 0 ;
     background-size: cover;
@@ -122,7 +122,7 @@ ul{
 
 /*FRAME 3*/
 #frame3{
-    background-image: url(../assets/banner3.png);
+    background-image: url(assets/back/banner3.png);
     background-repeat: no-repeat;
     background-position: center 0 ;
     background-size: cover;
@@ -179,7 +179,7 @@ ul{
 
 /*FRAME 4*/
 #frame4{
-    background-image: url(../assets/banner4.png);
+    background-image: url(assets/back/banner4.png);
     background-repeat: no-repeat;
     background-position: center 0 ;
     background-size: cover;
@@ -206,21 +206,21 @@ ul{
     border-radius: 1rem;
 }
 #frame10{
-    background-image: url(../assets/banner10.png);
+    background-image: url(assets/back/banner10.png);
     background-repeat: no-repeat;
     background-position: center 0 ;
     background-size: cover;
     background-attachment: scroll;
 }
 #frame5{
-    background-image: url(../assets/banner5.png);
+    background-image: url(assets/back/banner5.png);
     background-repeat: no-repeat;
     background-position: center 0 ;
     background-size: cover;
     background-attachment: scroll;
 }
 #frame6{
-    background-image: url(../assets/banner6.png);
+    background-image: url(assets/back/banner6.png);
     background-repeat: no-repeat;
     background-position: center 0 ;
     background-size: cover;
