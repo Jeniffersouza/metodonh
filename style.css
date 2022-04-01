@@ -258,14 +258,14 @@ ul{
 
 
 #frame7{
-    background-image: url(../assets/banner7.png);
+    background-image: url(assets/back/banner7.png);
     background-repeat: no-repeat;
     background-position: center 0 ;
     background-size: cover;
     background-attachment: scroll;
 }
 #frame8{
-    background-image: url(../assets/banner8.png);
+    background-image: url(assets/back/banner8.png);
     background-repeat: no-repeat;
     background-position: center 0 ;
     background-size: cover;
@@ -291,7 +291,7 @@ ul{
     border-radius: 1rem;
 }
 #frame9{
-    background-image: url(../assets/banner9.png);
+    background-image: url(assets/back/banner9.png);
     background-repeat: no-repeat;
     background-position: center 0 ;
     background-size: cover;
